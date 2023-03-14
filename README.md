@@ -21,3 +21,4 @@ The above example converts all `.flac` files to `.wav` files that are located in
 
 - This script only supports conversion of audio files.
 - Make sure to backup your files before running the script.
+- Both Python and ffmpeg need to be installed and added to your PATH for the script to function correctly.
